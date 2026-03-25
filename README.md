@@ -1,17 +1,13 @@
-Hi, I'm Rohit Bakale
-🎯 Embedded Software Engineer  Problem-Solver  IoT & Automotive Enthusiast
-📍 Belagavi, India
-
-🚀 About Me
-🎓 B.E Graduate in Computer Science and Engineering with a strong academic foundation and hands-on embedded systems experience.
-💼 Currently preparing for opportunities as an Embedded Software Engineer, applying my skills to design efficient, reliable, and scalable embedded solutions.
-🧩 Problem-Solving Enthusiast: Passionate about algorithmic thinking, optimization techniques, and tackling complex challenges in real-time systems.
-⚡ Embedded Systems Expertise:
-- Proficient in C, C++, and Embedded C programming
-- Hands-on with ARM Cortex, 8051 architecture
-- Skilled in key protocols (UART, SPI, I2C, CAN)
-- Experience with Linux, device drivers, and shell scripting
-🤖 Interests: IoT, automotive systems, robotics, and AI-driven embedded applications.
-🌱 Always exploring new technologies to stay ahead in the embedded industry.
-
-
+💫 About Me:
+🔭 I’m currently working on
+Embedded Software projects and real-time systems to strengthen my portfolio
+👯 I’m looking to collaborate on
+IoT, automotive embedded systems, and robotics projects with like-minded engineers
+🤝 I’m looking for help with
+Landing my first role as an Embedded Software Engineer in IoT/Automotive domain
+🌱 I’m currently learning
+Advanced RTOS (FreeRTOS), automotive protocols (CAN/LIN), and Linux kernel drivers
+💬 Ask me about
+ARM Cortex microcontrollers, embedded C/C++, device drivers, communication protocols (UART, SPI, I2C, CAN)
+⚡ Fun fact
+Built a home automation IoT system and contributed to automotive-grade embedded solutions
